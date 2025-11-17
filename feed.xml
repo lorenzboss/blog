@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Blog</title>
-    <link href="https://lorenzboss.github.io/blog/feed.xml" rel="self" />
-    <link href="https://lorenzboss.github.io/blog" />
+    <link href="https://blog.lorenzboss.com/feed.xml" rel="self" />
+    <link href="https://blog.lorenzboss.com" />
     <updated>2025-11-17T18:25:57+01:00</updated>
     <author>
         <name>Lorenz</name>
     </author>
-    <id>https://lorenzboss.github.io/blog</id>
+    <id>https://blog.lorenzboss.com</id>
 
     <entry>
         <title>Free Analytics for Your Publii Blog – Know Your Readers Without Creeping Them Out</title>
         <author>
             <name>Lorenz</name>
         </author>
-        <link href="https://lorenzboss.github.io/blog/free-analytics-for-your-publii-blog-know-your-readers-without-creeping-them-out/"/>
-        <id>https://lorenzboss.github.io/blog/free-analytics-for-your-publii-blog-know-your-readers-without-creeping-them-out/</id>
+        <link href="https://blog.lorenzboss.com/free-analytics-for-your-publii-blog-know-your-readers-without-creeping-them-out/"/>
+        <id>https://blog.lorenzboss.com/free-analytics-for-your-publii-blog-know-your-readers-without-creeping-them-out/</id>
             <category term="Publii"/>
             <category term="CMS"/>
 
@@ -55,8 +55,8 @@
         <author>
             <name>Lorenz</name>
         </author>
-        <link href="https://lorenzboss.github.io/blog/hosting-a-publii-blog-for-free-its-easier-than-you-think/"/>
-        <id>https://lorenzboss.github.io/blog/hosting-a-publii-blog-for-free-its-easier-than-you-think/</id>
+        <link href="https://blog.lorenzboss.com/hosting-a-publii-blog-for-free-its-easier-than-you-think/"/>
+        <id>https://blog.lorenzboss.com/hosting-a-publii-blog-for-free-its-easier-than-you-think/</id>
             <category term="Publii"/>
             <category term="CMS"/>
 
@@ -87,8 +87,8 @@
         <author>
             <name>Lorenz</name>
         </author>
-        <link href="https://lorenzboss.github.io/blog/what-is-publii-and-why-is-it-a-great-static-cms/"/>
-        <id>https://lorenzboss.github.io/blog/what-is-publii-and-why-is-it-a-great-static-cms/</id>
+        <link href="https://blog.lorenzboss.com/what-is-publii-and-why-is-it-a-great-static-cms/"/>
+        <id>https://blog.lorenzboss.com/what-is-publii-and-why-is-it-a-great-static-cms/</id>
             <category term="Publii"/>
             <category term="CMS"/>
 
@@ -132,8 +132,8 @@
         <author>
             <name>Lorenz</name>
         </author>
-        <link href="https://lorenzboss.github.io/blog/dynamic-cms-vs-static-cms-what-is-the-difference/"/>
-        <id>https://lorenzboss.github.io/blog/dynamic-cms-vs-static-cms-what-is-the-difference/</id>
+        <link href="https://blog.lorenzboss.com/dynamic-cms-vs-static-cms-what-is-the-difference/"/>
+        <id>https://blog.lorenzboss.com/dynamic-cms-vs-static-cms-what-is-the-difference/</id>
             <category term="CMS"/>
 
         <updated>2025-11-17T18:13:07+01:00</updated>
